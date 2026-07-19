@@ -4,9 +4,9 @@
 
 ANTLR generates lexers and parsers from a single grammar (`.g4`) file, using the adaptive `ALL(*)` parsing strategy. This list gathers the foundational research, the runtime targets for each language, editor/analysis tooling, and a catalogue of production grammars published by their vendors.
 
-> "ANTLR uses the LL(\*) parsing strategy… [it] can handle grammars that are not LL(k) by performing an infinite lookahead… ideal for parsing more complex grammars with multiple viable paths."
+> "ANTLR uses the LL(\*) parsing strategy… (it) can handle grammars that are not LL(k) by performing an infinite lookahead… ideal for parsing more complex grammars with multiple viable paths."
 >
-> — Latif et al., [*Comparison of Leading Language Parsers*](https://doi.org/10.1109/icste61649.2023.00009) (ICSTE 2023)
+> — Latif et al., *Comparison of Leading Language Parsers* (ICSTE 2023)
 
 ## Contents
 
