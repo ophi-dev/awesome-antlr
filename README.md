@@ -26,10 +26,11 @@ ANTLR generates lexers and parsers from a single grammar (`.g4`) file, using the
 - [LL(*): The Foundation of the ANTLR Parser Generator](https://doi.org/10.1145/1993498.1993548) - Terence Parr, Kathleen Fisher. PLDI 2011. The `LL(*)` algorithm behind ANTLR 3.
 - [ANTLR: A Predicated-LL(k) Parser Generator](https://doi.org/10.1002/spe.4380250705) - Terence J. Parr, Russell W. Quong. Software: Practice and Experience, 1995. The original paper describing ANTLR's design.
 - [ANTLRWorks: An ANTLR Grammar Development Environment](https://doi.org/10.1002/spe.872) - Jean Bovet, Terence Parr. Software: Practice and Experience, 2008. The grammar IDE with live parse-tree visualization.
+- [An Empirical Evaluation of Lex/Yacc and ANTLR Parser Generation Tools](https://doi.org/10.1371/journal.pone.0264326) - Francisco Ortin, Jose Quiroga, Oscar Rodriguez-Prieto, Miguel Garcia. PLOS ONE, 2022. An independent, open-access comparison of ANTLR against Lex/Yacc.
 
 ### Books
 
-- [The Definitive ANTLR 4 Reference](https://pragprog.com/titles/tpantlr2/the-definitive-antlr-4-reference/) - Terence Parr. Pragmatic Bookshelf, 2012 (ISBN 978-1-934356-99-9). The canonical guide to ANTLR 4.
+- [The Definitive ANTLR 4 Reference](https://pragprog.com/titles/tpantlr2/the-definitive-antlr-4-reference/) - Terence Parr. Pragmatic Bookshelf, 2013 (ISBN 978-1-934356-99-9). The canonical guide to ANTLR 4.
 - [Language Implementation Patterns](https://pragprog.com/titles/tpdsl/language-implementation-patterns/) - Terence Parr. Pragmatic Bookshelf, 2009 (ISBN 978-1-934356-45-6). Techniques for building parsers, interpreters, and translators.
 
 ## The Tool
