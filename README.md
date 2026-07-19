@@ -92,6 +92,7 @@ Notable standalone grammars maintained by the community:
 - [cedar-antlr-grammar](https://github.com/iann0036/cedar-antlr-grammar) - An ANTLR grammar for the AWS Cedar policy language.
 - [solidity-antlr4](https://github.com/solidityj/solidity-antlr4) - A grammar for the Solidity smart-contract language.
 - [TypeCobol](https://github.com/TypeCobolTeam/TypeCobol/tree/develop/TypeCobol/AntlrGrammar) - ANTLR grammars for IBM Enterprise COBOL, from an incremental COBOL parser.
+- [quoteparser](https://github.com/quoteparser/grammar/tree/master/src/main/antlr4/com/quoteparser) - A grammar for parsing FX option quotes, a neat example of parsing a non-programming-language notation.
 
 ## Benchmarks
 
