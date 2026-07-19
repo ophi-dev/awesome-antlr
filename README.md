@@ -45,17 +45,19 @@ ANTLR generates lexers and parsers from a single grammar (`.g4`) file, using the
 The reference runtimes for Java, C#, C++, Go, Python3, JavaScript, Dart, and Swift ship inside [antlr/antlr4](https://github.com/antlr/antlr4/tree/master/runtime). Notable independent or optimized targets:
 
 - [antlr4-go/antlr](https://github.com/antlr4-go/antlr) - The Go target, published as a standalone Go module.
-- [antlr4ng](https://github.com/mike-lischke/antlr4ng) - Modern TypeScript/JavaScript runtime, successor to antlr4ts.
-- [antlr4ts](https://github.com/tunnelvisionlabs/antlr4ts) - Optimized TypeScript target (now superseded by antlr4ng).
+- [antlr4ng](https://github.com/mike-lischke/antlr4ng) - Modern TypeScript/JavaScript runtime.
 - [antlr4cs](https://github.com/tunnelvisionlabs/antlr4cs) - Highly-optimized alternative C# target.
 - [antlr-php-runtime](https://github.com/antlr/antlr-php-runtime) - Official PHP runtime.
 - [antlr-rust-runtime](https://github.com/ophi-dev/antlr-rust-runtime) - Pure-Rust runtime and `.g4` code generator, no JVM required at build time.
+- [antlr4wasm](https://github.com/mike-lischke/antlr4wasm) - WebAssembly target for ANTLR4, with a TypeScript interface.
 
 ## Tooling
 
 - [antlr4-c3](https://github.com/mike-lischke/antlr4-c3) - Grammar-agnostic code-completion engine for ANTLR-based parsers.
 - [vscode-antlr4](https://github.com/mike-lischke/vscode-antlr4) - Visual Studio Code extension: syntax highlighting, railroad diagrams, ATN visualization, debugging.
 - [intellij-plugin-v4](https://github.com/antlr/intellij-plugin-v4) - ANTLR v4 plugin for IntelliJ IDEA: live grammar preview and parse-tree inspection.
+- [ANTLR4ParseTreeVisualizer](https://github.com/zspitz/ANTLR4ParseTreeVisualizer) - Visual Studio debugging visualizer and .NET controls for ANTLR 4 parse trees.
+- [Grun.Net](https://github.com/wiredwiz/Grun.Net) - A .NET toolset for testing and diagnosing ANTLR 4 grammars, a TestRig alternative for C# parsers.
 
 ## Grammars
 
