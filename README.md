@@ -91,6 +91,7 @@ Notable standalone grammars maintained by the community:
 - [tsqlparser](https://github.com/jimidle/tsqlparser) - A T-SQL (SQL Server 2008 R2) grammar for ANTLR 4.
 - [cedar-antlr-grammar](https://github.com/iann0036/cedar-antlr-grammar) - An ANTLR grammar for the AWS Cedar policy language.
 - [solidity-antlr4](https://github.com/solidityj/solidity-antlr4) - A grammar for the Solidity smart-contract language.
+- [TypeCobol](https://github.com/TypeCobolTeam/TypeCobol/tree/develop/TypeCobol/AntlrGrammar) - ANTLR grammars for IBM Enterprise COBOL, from an incremental COBOL parser.
 
 ## Benchmarks
 
