@@ -95,6 +95,7 @@ Notable standalone grammars maintained by the community:
 - [ANTLR Documentation](https://github.com/antlr/antlr4/blob/master/doc/index.md) - The official documentation, from getting started to grammar reference.
 - [ANTLR Mega Tutorial](https://tomassetti.me/antlr-mega-tutorial/) - A long-form practical introduction to building parsers with ANTLR.
 - [ANTLR Grammar Optimisation: What Worked and What Didn't](https://www.atfinity.swiss/articles/antlr-grammar-optimisation-what-worked-and-what-didnt) - A practical writeup of real-world techniques for speeding up ANTLR grammars.
+- [Testing Grammar Using ANTLR4 TestRig (grun)](https://medium.com/knoldus/testing-grammar-using-antlr4-testrig-grun-1ddef7d574b9) - A hands-on guide to validating grammars with ANTLR's TestRig/grun tool.
 
 ## Contributing
 
