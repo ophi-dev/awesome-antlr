@@ -78,6 +78,7 @@ Grammars maintained by the language/product's own project — first-hand, author
 - [MySQL](https://github.com/mysql/mysql-shell-plugins) - Oracle's official MySQL grammar (`MySQLParser.g4` / `MySQLLexer.g4`), used by MySQL Shell.
 - [GQL](https://github.com/opengql/grammar) - ANTLR grammar for the ISO/IEC 39075 Graph Query Language. See also [TuGraph-family/gql-grammar](https://github.com/TuGraph-family/gql-grammar).
 - [Apache Avro IDL](https://github.com/apache/avro/blob/main/share/idl_grammar/org/apache/avro/idl/Idl.g4) - The grammar for Avro's interface description language.
+- [Apache Groovy](https://github.com/apache/groovy/tree/master/src/antlr) - The official grammar for the Groovy language (`GroovyParser.g4` / `GroovyLexer.g4`).
 - [Apache Spark SQL](https://github.com/apache/spark/tree/master/sql/api/src/main/antlr4/org/apache/spark/sql/catalyst/parser) - Spark's SQL dialect grammar (`SqlBaseParser.g4`).
 - [Trino SQL](https://github.com/trinodb/trino/blob/master/core/trino-grammar/src/main/antlr4/io/trino/grammar/sql/SqlBase.g4) - The SQL grammar for the Trino query engine.
 - [Presto SQL](https://github.com/prestodb/presto/blob/master/presto-parser/src/main/antlr4/com/facebook/presto/sql/parser/SqlBase.g4) - The SQL grammar for the Presto query engine.
