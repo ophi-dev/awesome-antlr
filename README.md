@@ -28,6 +28,7 @@ ANTLR generates lexers and parsers from a single grammar (`.g4`) file, using the
 - [ANTLR: A Predicated-LL(k) Parser Generator](https://doi.org/10.1002/spe.4380250705) - Terence J. Parr, Russell W. Quong. Software: Practice and Experience, 1995. The original paper describing ANTLR's design.
 - [ANTLRWorks: An ANTLR Grammar Development Environment](https://doi.org/10.1002/spe.872) - Jean Bovet, Terence Parr. Software: Practice and Experience, 2008. The grammar IDE with live parse-tree visualization.
 - [An Empirical Evaluation of Lex/Yacc and ANTLR Parser Generation Tools](https://doi.org/10.1371/journal.pone.0264326) - Francisco Ortin, Jose Quiroga, Oscar Rodriguez-Prieto, Miguel Garcia. PLOS ONE, 2022. An independent, open-access comparison of ANTLR against Lex/Yacc.
+- [Comparison of Leading Language Parsers – ANTLR, JavaCC, SableCC, Tree-sitter, Yacc, Bison](https://doi.org/10.1109/icste61649.2023.00009) - Afshan Latif, Farooque Azam, Muhammad Waseem Anwar, Amina Zafar. ICSTE 2023. A survey comparing ANTLR against other major parser generators.
 
 ### Books
 
