@@ -15,6 +15,7 @@ ANTLR generates lexers and parsers from a single grammar (`.g4`) file, using the
 - [Grammars](#grammars)
   - [Grammar Collections](#grammar-collections)
   - [Vendor-Published Grammars](#vendor-published-grammars)
+  - [Community Grammars](#community-grammars)
 - [Benchmarks](#benchmarks)
 - [Learning](#learning)
 
@@ -49,7 +50,6 @@ The reference runtimes for Java, C#, C++, Go, Python3, JavaScript, Dart, and Swi
 - [antlr4cs](https://github.com/tunnelvisionlabs/antlr4cs) - Highly-optimized alternative C# target.
 - [antlr-php-runtime](https://github.com/antlr/antlr-php-runtime) - Official PHP runtime.
 - [antlr-rust-runtime](https://github.com/ophi-dev/antlr-rust-runtime) - Pure-Rust runtime and `.g4` code generator, no JVM required at build time.
-- [dbt-antlr4](https://github.com/sdf-labs/antlr4) - Rust runtime fork (arena-allocated) maintained by dbt Labs / SDF.
 
 ## Tooling
 
@@ -76,6 +76,14 @@ Grammars maintained by the language/product's own project — first-hand, author
 - [Presto SQL](https://github.com/prestodb/presto/blob/master/presto-parser/src/main/antlr4/com/facebook/presto/sql/parser/SqlBase.g4) - The SQL grammar for the Presto query engine.
 - [AWS DQDL](https://github.com/awslabs/dqdl) - Grammar for the Data Quality Definition Language used by AWS Glue Data Quality.
 
+### Community Grammars
+
+Notable standalone grammars maintained by the community:
+
+- [tsqlparser](https://github.com/jimidle/tsqlparser) - A T-SQL (SQL Server 2008 R2) grammar for ANTLR 4.
+- [cedar-antlr-grammar](https://github.com/iann0036/cedar-antlr-grammar) - An ANTLR grammar for the AWS Cedar policy language.
+- [solidity-antlr4](https://github.com/solidityj/solidity-antlr4) - A grammar for the Solidity smart-contract language.
+
 ## Benchmarks
 
 - [antlr4-runtime-benchmarks](https://github.com/mike-lischke/antlr4-runtime-benchmarks) - Cross-runtime performance benchmarks comparing ANTLR targets on the same grammars and inputs.
@@ -84,6 +92,7 @@ Grammars maintained by the language/product's own project — first-hand, author
 
 - [ANTLR Documentation](https://github.com/antlr/antlr4/blob/master/doc/index.md) - The official documentation, from getting started to grammar reference.
 - [ANTLR Mega Tutorial](https://tomassetti.me/antlr-mega-tutorial/) - A long-form practical introduction to building parsers with ANTLR.
+- [ANTLR Grammar Optimisation: What Worked and What Didn't](https://www.atfinity.swiss/articles/antlr-grammar-optimisation-what-worked-and-what-didnt) - A practical writeup of real-world techniques for speeding up ANTLR grammars.
 
 ## Contributing
 
