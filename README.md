@@ -96,6 +96,7 @@ Notable standalone grammars maintained by the community:
 - [solidity-antlr4](https://github.com/solidityj/solidity-antlr4) - A grammar for the Solidity smart-contract language.
 - [TypeCobol](https://github.com/TypeCobolTeam/TypeCobol/tree/develop/TypeCobol/AntlrGrammar) - ANTLR grammars for IBM Enterprise COBOL, from an incremental COBOL parser.
 - [quoteparser](https://github.com/quoteparser/grammar/tree/master/src/main/antlr4/com/quoteparser) - A grammar for parsing FX option quotes, a neat example of parsing a non-programming-language notation.
+- [PolymorphicDSL Gherkin](https://github.com/google/polymorphicDSL/tree/main/src/main/antlr4/com/pdsl/gherkin/parser) - A multi-dialect Gherkin (Cucumber BDD) grammar from Google's PolymorphicDSL test framework, with a lexer generated to recognize keywords across many spoken languages.
 
 ## Benchmarks
 
