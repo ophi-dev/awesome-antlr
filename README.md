@@ -64,6 +64,8 @@ The reference runtimes for Java, C#, C++, Go, Python3, JavaScript, Dart, and Swi
 - [intellij-plugin-v4](https://github.com/antlr/intellij-plugin-v4) - ANTLR v4 plugin for IntelliJ IDEA: live grammar preview and parse-tree inspection.
 - [ANTLR4ParseTreeVisualizer](https://github.com/zspitz/ANTLR4ParseTreeVisualizer) - Visual Studio debugging visualizer and .NET controls for ANTLR 4 parse trees.
 - [Grun.Net](https://github.com/wiredwiz/Grun.Net) - A .NET toolset for testing and diagnosing ANTLR 4 grammars, a TestRig alternative for C# parsers.
+- [Grammarinator](https://github.com/renatahodovan/grammarinator) - A grammar-based test generator (fuzzer) that produces random inputs from an ANTLR 4 grammar.
+- [rules_antlr](https://github.com/marcohu/rules_antlr) - Bazel build rules for running ANTLR on your grammars.
 
 ## Grammars
 
