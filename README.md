@@ -55,6 +55,7 @@ The reference runtimes for Java, C#, C++, Go, Python3, JavaScript, Dart, and Swi
 - [antlr-php-runtime](https://github.com/antlr/antlr-php-runtime) - Official PHP runtime.
 - [antlr-rust-runtime](https://github.com/ophi-dev/antlr-rust-runtime) - Pure-Rust runtime and `.g4` code generator, no JVM required at build time.
 - [antlr4wasm](https://github.com/mike-lischke/antlr4wasm) - WebAssembly target for ANTLR4, with a TypeScript interface.
+- [antlr-kotlin](https://github.com/Strumenta/antlr-kotlin) - Kotlin target for ANTLR 4, including Kotlin Multiplatform support.
 
 ## Tooling
 
