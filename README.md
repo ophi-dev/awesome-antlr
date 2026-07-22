@@ -56,6 +56,7 @@ The reference runtimes for Java, C#, C++, Go, Python3, JavaScript, Dart, and Swi
 - [antlr-rust-runtime](https://github.com/ophi-dev/antlr-rust-runtime) - Pure-Rust runtime and `.g4` code generator, no JVM required at build time.
 - [antlr4wasm](https://github.com/mike-lischke/antlr4wasm) - WebAssembly target for ANTLR4 with a TypeScript interface. On hold: its own benchmarks found the existing JS/TS runtime faster than the compiled-to-WASM build. A Rust-to-WebAssembly path (compact, GC-free output) is a different bet on this idea — tracked as antlr-rust-runtime [#143](https://github.com/ophi-dev/antlr-rust-runtime/issues/143).
 - [antlr-kotlin](https://github.com/Strumenta/antlr-kotlin) - Kotlin target for ANTLR 4, including Kotlin Multiplatform support.
+- [stantler](https://github.com/davidsun0/stantler) - An early-stage ANTLR4-compatible lexer/parser generator for Common Lisp, generating parser functions directly from `.g4` files.
 
 ## Tooling
 
