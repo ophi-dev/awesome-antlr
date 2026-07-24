@@ -79,6 +79,7 @@ The reference runtimes for Java, C#, C++, Go, Python3, JavaScript, Dart, and Swi
 Grammars maintained by the language/product's own project — first-hand, authoritative sources:
 
 - [Kotlin](https://github.com/Kotlin/kotlin-spec/tree/release/grammar/src/main/antlr) - Official grammar from the Kotlin Language Specification (JetBrains).
+- [C#](https://github.com/dotnet/csharpstandard/blob/draft-v8/standard/grammar.md) - The C# grammar in ANTLR notation from the ECMA-334 standard (dotnet/csharpstandard, C# standards committee); also rendered on [Microsoft Learn](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/language-specification/grammar).
 - [MySQL](https://github.com/mysql/mysql-shell-plugins) - Oracle's official MySQL grammar (`MySQLParser.g4` / `MySQLLexer.g4`), used by MySQL Shell.
 - [GQL](https://github.com/opengql/grammar) - ANTLR grammar for the ISO/IEC 39075 Graph Query Language. See also [TuGraph-family/gql-grammar](https://github.com/TuGraph-family/gql-grammar).
 - [Apache Avro IDL](https://github.com/apache/avro/blob/main/share/idl_grammar/org/apache/avro/idl/Idl.g4) - The grammar for Avro's interface description language.
